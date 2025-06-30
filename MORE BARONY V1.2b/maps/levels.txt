@@ -1,0 +1,16 @@
+map: start
+gen: dungeon
+gen: dungeon
+gen: dungeon
+gen: dungeon
+map: dungeontooldmine
+gen: oldmines
+gen: oldmines
+gen: oldmines
+gen: oldmines
+map: oldminestocursedcaves
+gen: cursedcaves
+gen: cursedcaves
+gen: cursedcaves
+gen: cursedcaves
+map: end
