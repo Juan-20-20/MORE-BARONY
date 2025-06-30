@@ -1,4 +1,0 @@
-intermission: "Eastern Wind" (Fear and hunger OST)
-intro/intro01/intro02: "Turgor" (The Void OST)
-mines00: "The Four Apostles" (Fear and hunger OST)
-mines01,02,03,04: "Ancient City" (Fear and hunger OST)
