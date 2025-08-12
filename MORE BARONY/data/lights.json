@@ -267,7 +267,7 @@
 			"shadows": true
         },
         "player_ambient_imp": {
-            "radius": 6,
+            "radius": 5,
             "r": 0.25,
             "g": 0.1,
             "b": 0.35,
@@ -276,9 +276,9 @@
 		},
 			"player_ambient_imp_sneaking": {
 			"radius": 8,
-			"r": 0.20,
-			"g": 0.9,
-			"b": 0.4,
+			"r": 0.25,
+			"g": 0.1,
+			"b": 0.35,
 			"falloff_exp": 0.5,
 			"shadows": true
 		},
@@ -299,7 +299,7 @@
             "shadows": true
         },
         "npc_lantern": {
-            "radius": 5,
+            "radius": 4,
             "r": 0.7,
             "g": 0.4,
             "b": 0.2,
@@ -323,7 +323,7 @@
             "shadows": true
         },
         "explosion": {
-            "radius": 2,
+            "radius": 3,
             "r": 0.7,
             "g": 0.4,
             "b": 0.2,
