@@ -443,9 +443,9 @@ images/tiles/Meat.png
 images/tiles/Meatblood.png
 images/tiles/Meatskull.png
 images/tiles/Bloodyskulls.png
-images/tiles/backdrop.png
-images/tiles/backdrop.png
-images/tiles/backdrop.png
-images/tiles/backdrop.png
+images/tiles/Dungeonhole.png
+images/tiles/Dungeonhole2.png
+images/tiles/house.png
+images/tiles/orange.png
 images/tiles/backdrop.png
 images/tiles/backdrop.png
