@@ -179,7 +179,7 @@
             "shadows": true
         },
         "player_torch": {
-            "radius": 4,
+            "radius": 5,
             "r": 0.7,
             "g": 0.4,
             "b": 0.2,
@@ -187,10 +187,10 @@
             "shadows": true
         },
         "player_lantern": {
-            "radius": 6,
-            "r": 0.6,
-            "g": 0.3,
-            "b": 0.1,
+            "radius": 7,
+            "r": 0.7,
+            "g": 0.4,
+            "b": 0.2,
             "falloff_exp": 0.5,
             "shadows": true
         },

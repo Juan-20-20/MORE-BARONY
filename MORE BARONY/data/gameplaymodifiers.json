@@ -1,11 +1,11 @@
 {
     "version": 1,
     "xp_share_range": 256,
-    "global_xp_award_percent": 30,
+    "global_xp_award_percent": 40,
     "global_gold_drop_scale_percent": 100,
     "player_share_minimap_progress": false,
-    "player_speed_weight_impact_percent": 100,
-    "player_speed_max": 9.5,
+    "player_speed_weight_impact_percent": 90,
+    "player_speed_max": 10.5,
     "minotaur_force_disable_on_floors": {
         "normal_floors": [],
         "secret_floors": []

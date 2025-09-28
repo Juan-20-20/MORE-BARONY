@@ -1,4 +1,4 @@
-map: new start
+map: introduction
 gen: dungeon
 gen: dungeon
 gen: dungeon
