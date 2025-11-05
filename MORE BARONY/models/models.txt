@@ -1483,4 +1483,3 @@ models/decorations/shrine_daedalus_tip.vox
 models/particles/particle_tri.vox
 models/items/mouth_marigold.vox
 models/decorations/shrine_assist.vox
-models/decorations/waterunderfloor1.vox

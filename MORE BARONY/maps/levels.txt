@@ -8,7 +8,12 @@ gen: oldmines
 gen: oldmines
 gen: oldmines
 gen: oldmines
-map: oldminestocursedcaves
+map: oldminestodeepswamp
+gen: deepswamp
+gen: deepswamp
+gen: deepswamp
+gen: deepswamp
+map: deepswamptocursedcave
 gen: cursedcaves
 gen: cursedcaves
 gen: cursedcaves
