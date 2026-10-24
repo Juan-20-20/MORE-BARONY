@@ -1,7 +1,7 @@
-map: introduction
-gen: dungeon
-gen: dungeon
-gen: dungeon
+map: Anewstart
+gen: dungeon   #first level
+gen: dungeon   #secret level connect catacomb 2
+gen: dungeon   #secret level 50/50 connect troll maze -> cata boss
 gen: dungeon
 map: dungeontransition
 gen: oldmines
@@ -13,10 +13,26 @@ gen: deepswamp
 gen: deepswamp
 gen: deepswamp
 gen: deepswamp
-map: deepswamptocursedcave
+map: swamptransition
 gen: cursedcaves
 gen: cursedcaves
 gen: cursedcaves
 gen: cursedcaves
 map: cavetotemple
+gen: darktemple -
+gen: darktemple -
+gen: darktemple -
+gen: darktemple -
+map: safezone
+gen: abyss
+gen: abyss
+gen: abyss
+gen: abyss
 map: end
+gen: ice
+gen: ice
+gen: ice
+map: icecastle
+map: iceboss
+map: redboss
+map: cavetransitionBtI

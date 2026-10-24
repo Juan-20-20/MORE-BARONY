@@ -1,0 +1,28 @@
+# imp limbs file
+# defines key model offset values
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+# head
+0 2 0 0
+
+# torso
+1 -1 0 2
+
+# right leg
+2 -2 0 2
+
+# left leg
+3 -2 0 2
+
+# right arm
+4 2.25 -0.7 3.75
+
+# left arm
+5 2.25 0.7 3.75
+
+# right wing
+6 0.5 2 0
+
+# left wing
+7 0.5 -2 0

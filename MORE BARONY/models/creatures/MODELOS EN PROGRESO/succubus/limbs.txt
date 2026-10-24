@@ -1,0 +1,37 @@
+# succubus limbs file
+# defines key model offset values
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+# head
+0 -0.25 0 -1.75
+
+# torso
+1 0 0 0
+
+# right leg
+2 0.25 0 2
+
+# left leg
+3 0.25 0 2
+
+# right arm
+4 0.25 0 2.5
+
+# left arm
+5 0.25 0 2.5
+
+# weapon
+6 1.5 0 1.25
+
+# shield
+7 2 0.5 1
+
+# cloak
+8 0 0.75 4.15
+
+# helmet
+9 -0.5 0 -2
+
+# mask
+10 -.25 0 .5

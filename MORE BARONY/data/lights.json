@@ -84,8 +84,8 @@
         },
         "orb_green": {
             "radius": 3,
-            "r": 0.2,
-            "g": 1,
+            "r": 0.7,
+            "g": 0.4,
             "b": 0.2,
             "falloff_exp": 0.5,
             "shadows": true
@@ -271,8 +271,8 @@
             "r": 0.25,
             "g": 0.1,
             "b": 0.35,
-            "falloff_exp": 0.6,
-            "shadows": true
+            "falloff_exp": 0.6,            "shadows": true
+
 		},
 			"player_ambient_imp_sneaking": {
 			"radius": 8,

@@ -1,0 +1,22 @@
+# ghoul limbs file
+# defines key model offset values
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+# head
+0 0 0 -2.5
+
+# torso
+1 0 0 0
+
+# right leg
+2 1 -0.5 1.5
+
+# left leg
+3 1 0.5 1.5
+
+# right arm
+4 -0.5 -0.25 3
+
+# left arm
+5 -0.5 0.25 3

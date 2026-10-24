@@ -1,0 +1,13 @@
+# scarab limbs file
+# defines key model offset values
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+# body
+0 0 0 0
+
+# left wing
+1 0 -0.8 2.3
+
+# right wing
+2 0 0.8 2.3

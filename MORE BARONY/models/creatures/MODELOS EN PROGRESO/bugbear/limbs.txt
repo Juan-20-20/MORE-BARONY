@@ -1,0 +1,64 @@
+# troll limbs file
+# defines key model offset values
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+# head
+0 2.25 0 -2.5
+
+# torso
+1 0 0 0
+
+# right leg
+2 0.75 -0.25 2
+
+# left leg
+3 0.75 0.25 2
+
+# left/right arm
+4 0 0 4.0
+
+# left arm bent focal
+5 1.75 -0.5 2.5
+
+# weapon
+6 3.5 0.01 0.25
+
+# shield
+7 4.25 0 4.5
+
+# left arm xyz
+8 -0.51 0.75 -0.375
+
+# right leg xyz
+9 0.01 1 0
+
+# left leg xyz
+10 -0.01 1 0
+
+# base xyz
+11 1.5 0 -1.75
+
+# right arm xyz
+12 1.01 0.75 -0.375
+
+# weapon xyz
+13 0.25 0 0
+
+# shield xyz
+14 0 0 0
+
+# right arm bent focal
+15 1.75 0 2.5
+
+# right arm unbent xyz
+16 1.01 0.75 -0.375
+
+# weapon bent focal
+17 6 -0.51 -2.25
+
+# weapon poke
+18 5 1 1
+
+# shield xyz
+19 3.0 -0.5 0

@@ -1,0 +1,25 @@
+/////// HUGE UPDATE ////////
+
+- 6 new sub-areas (Catacombs, Freezed mines, Melted caves, Ice realm, Blood Realm, Mausoleum)
+- Gold rooms now serves to get into the new sub-áreas using gold keys that can be found in some secret levels
+- Orpheus (Red King) and Eryduce (Ice Spirit) reworked to be more balanced and fun to fight
+- Lich bossfight slightly reworked and new mechanics added relationated with blue and red orb
+- Blood and Ice orb added (Red and blue orb) wich are for unlocking Ice and Blood Realm to fight Ice Spirit and Red King to get unique drops
+- Jungle to dark caves transition changed, now it serves to use the orbs to go to Ice and Blood realm
+- Jungle got new secret levels
+- Dark caves got new secret levels
+- New start area (way much better than the old one)
+- Old mines new secret level (Musseum)
+- New enemies with new models added (Cockatrice, Crystal Golem, Kobold, Demon, Imp, Minotaur,)
+- Dark temple overhauled
+
+////// NOTE PATCH //////
+
+- Bloody Dungeon overhauled and nerfed
+- Gnome Maze overhauled
+- Jungle issues with spawning exit and long loading times fixed
+- Mad troll slightly speed buff
+- Player weight impact even more reduced
+- Speed limit increased again
+- More illumination in a lot of levels
+

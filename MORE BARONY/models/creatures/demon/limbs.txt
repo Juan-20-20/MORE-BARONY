@@ -1,0 +1,28 @@
+# demon limbs file
+# defines key model offset values
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+# head
+0 4 0 3.25
+
+# torso
+1 -4 0 2.25
+
+# right leg
+2 0 -0.12 5
+
+# left leg
+3 0 0.12 5
+
+# right arm
+4 -1 -0.25 4.5
+
+# left arm
+5 -1 0.25 4.5
+
+# jaw
+6 6 0 5.5
+
+# arm xyz
+7 5.5 1 1.55

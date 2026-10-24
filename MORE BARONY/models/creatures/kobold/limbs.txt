@@ -1,0 +1,34 @@
+# kobold limbs file
+# defines key model offset values
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+# head
+0 0 0 -3
+
+# torso
+1 -.75 0 0
+
+# right leg
+2 0 -0.25 1.5
+
+# left leg
+3 0 0.25 1.5
+
+# right arm
+4 0 0 1.5
+
+# left arm
+5 0 0 1.5
+
+# world weapon
+6 2.35 0.2 -0.5
+
+# shield
+7 1.25 0 -0.1
+
+# cloak
+8 0 0 2.75
+
+# helmet
+9 -1.25 -3.3 0.55

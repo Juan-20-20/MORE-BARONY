@@ -1,0 +1,58 @@
+# gnome limbs file
+# defines key model offset values
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+# head
+0 0.25 0 -1.25
+
+# torso
+1 -1.265 0 0.75
+
+# right leg
+2 -.25 -0.3 1.5
+
+# left leg
+3 -.25 0.3 1.5
+
+# right arm
+4 -.25 0.05 2.25
+
+# left arm
+5 -.25 -0.05 2.25
+
+# world weapon
+6 1.5 0.25 0.0
+
+# shield
+7 1.75 0.0 1.75
+
+# cloak
+8 0 0 3.25
+
+# helmet
+9 -1.25 -3.3 0.5
+
+# mask
+10 -0.4 -2.5 2.5
+
+# torso scale
+11 1.05 1.0 1.05
+
+#
+12 0 0 0
+
+#
+13 0 0 0
+
+#
+14 0 0 0
+
+#
+15 0 0 0
+
+#
+16 0 0 0
+
+# weapon xyz
+17 0 -.5 0.5
